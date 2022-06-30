@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+Welcome to my Pg 
 
-
-Here are some ideas to get you started:
+my name is Barbie , Learning to be freelacer in Software Develop. Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Shopify projects
 - 🌱 I’m currently learning JS
-- 💬 Ask me about Shopify setup projects
+- 💬 Ask me about Shopify setup Stores
 - 📫 How to reach me: ...
