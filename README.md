@@ -2,7 +2,7 @@
 
 Welcome to my Pg 
 
-my name is Barbie , Learning to be freelancer in Software Develop. 
+my name is Barbie, and I am learning to be a freelancer as a Software Engineer. 
 
 - 🔭 I’m currently working on Shopify projects
 - 🌱 I’m currently learning JS
