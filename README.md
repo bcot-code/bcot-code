@@ -2,7 +2,7 @@
 
 Welcome to my Pg 
 
-My name is Barbie, and I'm learning to be a freelancer as a Software Engineer. 
+My name is Barbi, and I'm learning to be a freelancer as a Software Engineer. 
 
 - 🌱 I’m currently learning NextJS, but im always learning a new thing in the Programming World as Im approving my skills as a Developer.
   
